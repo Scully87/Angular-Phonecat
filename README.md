@@ -1,5 +1,7 @@
 # AngularJS Phone Catalog Tutorial Application
 
+## :construction:This Project is Still Under Development :construction:
+
 ## Overview
 
 This application takes the developer through the process of building a web-application using
